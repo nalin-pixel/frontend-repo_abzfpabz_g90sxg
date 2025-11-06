@@ -1,0 +1,12 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 363 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.49.175:3000/
+10:13:05 PM [vite] Pre-transform error: Failed to resolve import "@radix-ui/react-icons" from "src/components/Footer.jsx". Does the file exist?
+10:13:06 PM [vite] ✨ new dependencies optimized: @splinetool/react-spline, lucide-react
+10:13:06 PM [vite] ✨ optimized dependencies changed. reloading
